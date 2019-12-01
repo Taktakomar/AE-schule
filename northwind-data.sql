@@ -20,6 +20,7 @@ SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0;
 USE `northwind`;
 
 #
+#
 # Dumping data for table 'customers'
 #
 
